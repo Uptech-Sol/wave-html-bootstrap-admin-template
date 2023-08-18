@@ -2,7 +2,7 @@
 
 Wave is a premium admin dashboard template that combines aesthetics with functionality. Built upon Bootstrap, it provides a captivating interface optimized for both dark and light modes. Whether you're building a web application, backend system, or control panel, Wave offers a polished and professional look with its pre-built screens tailored for various purposes.
 
-![Wave Preview](https://projects.uptechsol.net/resources/wave-html/8.jpg)
+![Wave Dashboard Preview](https://projects.uptechsol.net/resources/wave-html/2.jpg)
 
 ## 🛠️ Key Features
 
